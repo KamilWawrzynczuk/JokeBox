@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//KamilWawrzynczuk.github.io/jokebox/static/css/main.6308bf09.css",
+    "main.js": "/https//KamilWawrzynczuk.github.io/jokebox/static/js/main.d0a623c5.js",
+    "static/js/787.d9db3846.chunk.js": "/https//KamilWawrzynczuk.github.io/jokebox/static/js/787.d9db3846.chunk.js",
+    "index.html": "/https//KamilWawrzynczuk.github.io/jokebox/index.html",
+    "main.6308bf09.css.map": "/https//KamilWawrzynczuk.github.io/jokebox/static/css/main.6308bf09.css.map",
+    "main.d0a623c5.js.map": "/https//KamilWawrzynczuk.github.io/jokebox/static/js/main.d0a623c5.js.map",
+    "787.d9db3846.chunk.js.map": "/https//KamilWawrzynczuk.github.io/jokebox/static/js/787.d9db3846.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6308bf09.css",
+    "static/js/main.d0a623c5.js"
+  ]
+}
